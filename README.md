@@ -2,7 +2,19 @@
 Repository for improving user experience for crypto - primarily focusing on private key management and onboarding
 
 ## Private Key Management
-Some projects which are working in the same space:
+
+### Why is private key management tough?
+ Cyber security is mentally taxing. Though physical security is also mentally taxing, that’s why we have locks, frisking, etc , but we have learned to accept them and they are part of our day to day lives.
+ * Fingerprint based office entry solutions 
+ * Frisking by guards before entering
+ * Security guards in apartments 
+ 
+ We are just not used to threat in cyber realm and don’t want the pain to secure it. This is at odds with the current practice of increasing amount of value and wealth in cyber domain. Most of us spend large number of waking hours in the cyber space - working on laptops, talking on mobile, chatting, etc. Large part of our wealth currently is secured in banks/funds which we interact digitally using websites/apps. With the increasing adoption of crypto, we will now also be responsible for securing our wealth. Hence, learning about cyber security is fundamental for the times to come.
+
+ Also, as engineers and product designers we should strive to make this shift in need for cyber-security frictionless, so that more and more people can transition to this new paradigm.
+
+ ### Projects
+ Some projects which are working in the same space:
 * [Gnosis Safe](https://safe.gnosis.io)
 * [WalletConnect](https://walletconnect.org/) - It’s an open-source project that enables desktop Dapps to interact with mobile Wallets.
 * Shamir's Secret - Sharded private keys with friends which enables authentication only when n-out of-m  keys are available
