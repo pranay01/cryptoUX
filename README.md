@@ -56,7 +56,6 @@ Can U2F keys be used as crypto private key hardware wallets? What are the securi
 
 * [Nik Page on Experience Design for Crypto adoption](https://www.youtube.com/watch?v=pMZ0FHtgXho)
 
-   ####Summary
    1. Very similar to Internet in 1990s (only 2.7 mn people on Internet)
    2. Current dApp designs primarily for dev/geeks. Scares away normal people
    3. Users can't be expected to secure private keys/ mnemonic phases when they are going on with their lives. All these complexities need to be abstracted aways
