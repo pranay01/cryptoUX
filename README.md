@@ -21,7 +21,7 @@ Repository for improving user experience for crypto - primarily focusing on priv
 
 ### Alternative Mechanisms
 * [Project at ETHBerlin](https://devpost.com/software/ethstonia-identity) - Using private key enabled Govt ID (Estonia Govt ID) for login?   
-* [Proposal](https://github.com/ethereum/EIPs/pull/1078) by Alex van de Sande - Login with ENS subdomains
+* [Proposal](https://github.com/ethereum/EIPs/pull/1078) by Alex van de Sande - Login with ENS subdomains - [Code](https://github.com/status-im/contracts/blob/73-economic-abstraction/contracts/identity/IdentityGasRelay.sol)
 * [Tenzorum](https://tenzorum.org/) - Key Management protocol for decentralised web
 
 ### Identity/Biometric based mechanisms
@@ -41,7 +41,36 @@ What are the issues with tying private keys with Identity?
 * Paper wallets
 * Crypto Steel
 * Trezor/Ledger Nano
+* [Ethercards](https://ether.cards/) - Physical Ether gift cards
 
 Can U2F keys be used as crypto private key hardware wallets? What are the security issues involved?
+
+### Instructive Videos
+* [Login, Identity and Wallets session at Berlin - July'18](https://view.ly/v/ZICBx62MbHdh)
+
+* [Universal Login for Ethereum by Alex van de Sande - May'18](https://www.youtube.com/watch?v=qF2lhJzngto) 
+
+* [Dapp UX and Adoption - Council of Berlin](https://view.ly/v/tWsj3yLPeUR8)
+  + Represents learning from different teams on UX adoption
+  + Summary - Keep it simple. Relevant. Give value before asking for email etc.
+
+* [Nik Page on Experience Design for Crypto adoption](https://www.youtube.com/watch?v=pMZ0FHtgXho)
+
+   ####Summary
+   1. Very similar to Internet in 1990s (only 2.7 mn people on Internet)
+   2. Current dApp designs primarily for dev/geeks. Scares away normal people
+   3. Users can't be expected to secure private keys/ mnemonic phases when they are going on with their lives. All these complexities need to be abstracted aways
+   4. Design for experience and emotion - important if 
+
+* [Building UX @Status - Early lessons from the field](https://www.youtube.com/watch?v=1Si7QmNOb_8)
+
+
+### Working Groups
+* [ Identity Foundation working groups](http://identity.foundation/working-groups)
+* [ UX Ring at Fellowship of Ethereum Magicians](https://ethereum-magicians.org/c/working-groups/User-Experience)
+
+### Instructive Blogs and Posts
+* [ Understanding decentralised identity - Sept'18](https://thecontrol.co/understanding-decentralized-identity-433abb343279)
+* [Twitter post by @CharlieShrem on crypto mass adoption](https://twitter.com/CharlieShrem/status/1009046658661994496)
 
 
